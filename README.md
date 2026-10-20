@@ -1,12 +1,1 @@
-# Luis — The Mobile Mechanic
-
-Responsive, Vercel-ready static website adapted from the uploaded template.
-
-## Customize before launch
-- Confirm Luis’s hours and replace the placeholder.
-- Confirm service area boundaries and supported repairs.
-- Check that the phone number is correct: +1 (469) 951-9936.
-- Service images are sourced from Unsplash URLs; internet access is required to load them.
-
-## Deploy
-Import this folder into Vercel, or deploy it as a static site.
+Luis Mobile Mechanic — website preview. Dallas, TX. Phone (469) 951-9936. English and Spanish. Static site: upload this folder to Vercel as a new project. This is a preview, not an official business website. Confirm specific services and service area with Luis before launch. Form opens an SMS draft on supported devices; no backend or data storage.
